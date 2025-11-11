@@ -1,8 +1,8 @@
 {
   "name": "MyApp",
   "short_name": "MyApp",
-  "description": "Aplikasi peta digital Anda...",
-  "start_url": "/index.html",
+  "description": "Aplikasi peta digital...",
+  "start_url": "/asahproject/index.html",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#004d29",
@@ -26,13 +26,13 @@
   ],
   "screenshots": [
     {
-      "src": "images/screenshots/ss-1.png",
+      "src": "screenshots/ss-1.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "images/screenshots/ss-2.png",
+      "src": "screenshots/ss-2.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide"
