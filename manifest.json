@@ -2,21 +2,25 @@
   "name": "Asah Project",
   "short_name": "Asah",
   "description": "Aplikasi peta digital untuk berbagi cerita.",
-  "start_url": "./index.html",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#004d29",
   "orientation": "portrait",
+  "lang": "id",
   "icons": [
     {
       "src": "./images/logo.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "./images/logo.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "screenshots": [
